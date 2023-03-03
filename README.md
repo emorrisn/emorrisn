@@ -7,17 +7,16 @@ Hi, I'm Ethan 👋
 🧠 Javascript, PHP, C#, Java, Python, MATLAB, Lua, Typescript, Excel, SQL & CSS  
 💖 React, Laravel, NodeJS, Docker, Nginx & AWS  
 🎓 Sheffield Hallam Univerity  
-🏢 Crew trainer, McDonalds  
-🥷 500+ Reputation score (Forums)
+🏢 Crew trainer, McDonalds
 
 ### Projects
-🌐 Public projects coming soon.
+🌐 soon
 
 ### Blog
-🐢 Coming soon.
+🐢 soon
 
 ### Currently Focusing on
-✨ .NET C#    
+✨ Uni
 
 ### Collaborate with me
 ✉️ ethan11310@gmail.com  
