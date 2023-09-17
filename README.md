@@ -19,5 +19,5 @@ Hi, I'm Ethan 👋
 ✨ Uni
 
 ### Collaborate with me
-✉️ ethan11310@gmail.com  
+✉️ ethan@ethan-morrison.com
 📝 [LinkedIn](https://www.linkedin.com/in/ethan-morrison-74b638155/)
