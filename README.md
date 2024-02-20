@@ -8,9 +8,16 @@ Hi, I'm Ethan 👋
 🎓 Sheffield Hallam Univerity   
 🏢 Shift Manager, McDonalds
 
-### Projects
-🌐 soon
-
+### Projects / History
+Several projects, including but not limited to the following:
+* [Notification Relocator Windows](https://github.com/emorrisn/Notification-Relocator-Windows-) (C#)
+* [Code Recall](https://github.com/emorrisn/code-recall) (JavaScript)
+* [Soviet-Python](https://github.com/emorrisn/Soviet-Python-A-level-coursework) (Python)
+* [lobbies.us](https://github.com/emorrisn/lobbies) (PHP)
+* [Fridge Manager](https://github.com/emorrisn/FridgeManager) (C#)
+* [ModernFits](https://github.com/itse-group4/ModernFits) (PHP)
+* [CoolKaftan](https://github.com/PatJNewellSHU/CoolKaftanGroup17) (PHP)
+  
 ### Blog
 🐢 soon
 
