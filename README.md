@@ -17,6 +17,7 @@ Several projects, including but not limited to the following:
 * [Fridge Manager](https://github.com/emorrisn/FridgeManager) (C#)
 * [ModernFits](https://github.com/itse-group4/ModernFits) (PHP)
 * [CoolKaftan](https://github.com/PatJNewellSHU/CoolKaftanGroup17) (PHP)
+* [Train Tracker](https://github.com/emorrisn/3Squared-Train-Tracker) (React & Express)
   
 ### Blog
 🐢 soon
