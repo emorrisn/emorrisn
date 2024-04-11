@@ -18,6 +18,7 @@ Several projects, including but not limited to the following:
 * [ModernFits](https://github.com/itse-group4/ModernFits) (PHP)
 * [CoolKaftan](https://github.com/PatJNewellSHU/CoolKaftanGroup17) (PHP)
 * [Train Tracker](https://github.com/emorrisn/3Squared-Train-Tracker) (React & Express)
+* [Pub Crawler App](https://github.com/emorrisn/Pub-Crawl-App) (Flutter) - WIP
   
 ### Blog
 🐢 soon
