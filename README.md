@@ -19,6 +19,7 @@ Several projects, including but not limited to the following:
 * [CoolKaftan](https://github.com/PatJNewellSHU/CoolKaftanGroup17) (PHP)
 * [Train Tracker](https://github.com/emorrisn/3Squared-Train-Tracker) (React & Express)
 * [Pub Crawler App](https://github.com/emorrisn/pub-crawler/) (Flutter)
+* [Weather App](https://github.com/emorrisn/vue-weather-app) (Vue.js)
   
 ### Blog
 🐢 soon
