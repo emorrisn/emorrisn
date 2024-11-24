@@ -1,12 +1,12 @@
 Hi, I'm Ethan 👋
   
-🕰️ 8+ Years Experience   
-📍 Sheffield, United Kingdom  
+🕰️ 9+ Years Coding   
+📍 Sheffield / Liverpool, United Kingdom  
 🧠 Javascript, PHP, C#, Java, Python, Typescript, Excel, SQL & CSS  
 💖 React, Laravel, NodeJS, Docker, Nginx & AWS  
 🤖 Versed in Scrum, Kanban & Lean (Agile)  
 🎓 Sheffield Hallam Univerity   
-🏢 Shift Manager, McDonalds
+🏢 Jr Developer @ ProspectSoft (The Access Group)
 
 ### Projects / History
 Several projects, including but not limited to the following:
@@ -25,7 +25,7 @@ Several projects, including but not limited to the following:
 🐢 soon
 
 ### Focusing on
-✨ Uni
+✨ Uni / Placements
 
 ### Reach me
 ✉️ ethan@ethan-morrison.com
