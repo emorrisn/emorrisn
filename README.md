@@ -1,12 +1,4 @@
 Hi, I'm Ethan 👋
-  
-🕰️ 9+ Years Coding   
-📍 Sheffield / Liverpool, United Kingdom  
-🧠 Javascript, PHP, C#, Java, Python, Typescript, Excel, SQL & CSS  
-💖 React, Laravel, NodeJS, Docker, Nginx & AWS  
-🤖 Versed in Scrum, Kanban & Lean (Agile)  
-🎓 Sheffield Hallam Univerity   
-🏢 Jr Developer @ ProspectSoft (The Access Group)
 
 ### Projects / History
 Several projects, including but not limited to the following:
@@ -21,12 +13,6 @@ Several projects, including but not limited to the following:
 * [Pub Crawler App](https://github.com/emorrisn/pub-crawler/) (Flutter)
 * [Weather App](https://github.com/emorrisn/vue-weather-app) (Vue.js)
   
-### Blog
-🐢 soon
-
-### Focusing on
-✨ Uni / Placements
-
 ### Reach me
 ✉️ ethan@ethan-morrison.com
 📝 [LinkedIn](https://www.linkedin.com/in/ethan-morrison-74b638155/)
